@@ -1,4 +1,12 @@
-My name is Lucas and I'm a web developer.
+Hello, there. My name is Lucas and I'm a web developer.
+
+Some of my hobbies and passions include:
+
+-   writing shell scripts;
+- ⚽ practicing sports every now and then;
+- 💻 ricing my computer;
+- 🎸 playing music;
+-   learning more about Linux/Unix.
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -20,6 +28,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
