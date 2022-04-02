@@ -1,4 +1,4 @@
-### Hi there 👋
+My name is Lucas and I'm a web developer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height=495 width=495 src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
