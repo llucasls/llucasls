@@ -8,6 +8,8 @@ Some of my hobbies and passions include:
 - 🎸 playing music;
 -   learning more about Linux/Unix.
 
+![bash](node_modules/devicon/icons/bash/bash-original.svg)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
 </a>
