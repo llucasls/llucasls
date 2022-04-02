@@ -2,13 +2,11 @@ Hello, there. My name is Lucas and I'm a web developer.
 
 Some of my hobbies and passions include:
 
--   writing shell scripts;
+- <img src="bash-original" height="18px" width="18px" /> writing shell scripts;
 - ⚽ practicing sports every now and then;
 - 💻 ricing my computer;
 - 🎸 playing music;
--   learning more about Linux/Unix.
-
-![bash](/bash-original.svg)
+- <img src="linux-original" height="18px" width="18px" /> learning more about Linux/Unix.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
