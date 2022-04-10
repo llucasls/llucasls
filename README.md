@@ -8,15 +8,21 @@ Some of my hobbies and passions include:
 - 🎸 playing music;
 - <img src="/linux-original.svg" height="16em" width="16em" /> learning more about Linux/Unix.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-L-S-Haine&layout=compact&theme=nord&langs_count=8&exclude_repo=dwm,dwm-blocks,dotfiles" />
-</a>
-<a href="https://git.io/streak-stats">
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-L-S-Haine&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
-</a>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" width="455em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
+  </a>
+</div>
+<div>
+  <a href="https://git.io/streak-stats">
+    <img height="180em" width="455em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-L-S-Haine&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
+  </a>
+</div>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" width="455em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-L-S-Haine&layout=compact&theme=nord&langs_count=8&exclude_repo=dwm,dwm-blocks,dotfiles" />
+  </a>
+</div>
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-L-S-Haine&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
