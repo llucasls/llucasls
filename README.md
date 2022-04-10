@@ -20,6 +20,12 @@ Some of my hobbies and passions include:
   </a>
 </div>
 
+My tech stack:
+
+<div align="center">
+  <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</div>
+
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucas-L-S-Haine&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
