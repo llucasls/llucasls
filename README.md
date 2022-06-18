@@ -13,7 +13,7 @@ Some of my hobbies and passions include:
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-L-S-Haine&theme=nord&show_icons=true" />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-L-S-Haine&layout=compact&theme=nord&langs_count=8&exclude_repo=dwm,dwm-blocks,dotfiles" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-L-S-Haine&layout=compact&theme=nord&langs_count=8&exclude_repo=dwm,st,dotfiles" />
   </a>
   <a href="https://git.io/streak-stats">
     <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lucas-L-S-Haine&theme=nord&date_format=M%20j%5B%2C%20Y%5D" />
