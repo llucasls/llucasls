@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lucas-L-S-Haine/Lucas-L-S-Haine.git"
+    "url": "git+https://github.com/llucasls/llucasls.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lucas-L-S-Haine/Lucas-L-S-Haine/issues"
+    "url": "https://github.com/llucasls/llucasls/issues"
   },
-  "homepage": "https://github.com/Lucas-L-S-Haine/Lucas-L-S-Haine#readme",
+  "homepage": "https://github.com/llucasls/llucasls#readme",
   "dependencies": {
     "devicon": "^2.15.1"
   }
